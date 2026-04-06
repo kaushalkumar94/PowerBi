@@ -49,12 +49,12 @@ X-axis:
 
 ## The Three Drill Actions
 
-### 1. 🔽 Drill Down (Single Path)
+### 1.  Drill Down (Single Path)
 Click one bar → drops into that store's products only
 
 > Example: Click **Costco** → see only Costco's products (Bottled Water, Canned Vegetables, Dried Beans, etc.)
 
-### 2. ⬇️ Expand All (Used in screenshot)
+### 2.  Expand All (Used in screenshot)
 Shows **all stores + their products simultaneously**
 
 > This is what the screenshot shows:
@@ -64,7 +64,7 @@ Shows **all stores + their products simultaneously**
 > Walmart → Bottled Water, Canned Vegetables, Dried Beans ...
 > ```
 
-### 3. 🔼 Drill Up
+### 3.  Drill Up
 Goes back to the top-level Store view — summary only
 
 ---
