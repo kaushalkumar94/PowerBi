@@ -12,7 +12,7 @@ Applied to **Table** and **Matrix** visuals.
 
 Two tables using the **Apocalypse Store** dataset, both showing `Product Name`, `Price`, `Sum of Units Sold`, and `Sum of Revenue`.
 
-![Conditional Formatting Tables](.01_conditional_formatting/screenshots/conditional_formatting.png)
+![Conditional Formatting Tables](./01_conditional_formating/screenshots/conditional_formatting.png)
 
 ---
 
@@ -32,8 +32,8 @@ Cells are color-coded based on price tier:
 
 Green horizontal bars represent units sold proportionally inside each cell:
 
-- Multitool Survivial Knife **(477)** → longest bar
-- Waterproof Matches **(190)** and Solar Battery Flashlight **(182)** → shorter bars
+- Multitool Survival Knife **(477)** → longest bar  
+- Waterproof Matches **(190)** and Solar Battery Flashlight **(182)** → shorter bars  
 
 ### Sum of Units Sold — Icons
 
@@ -56,7 +56,7 @@ Proportional bars make revenue comparison instant across products:
 | Product | Revenue | Rank |
 |---------|---------|------|
 | Weatherproof Jacket | 13,091.00 | 1st — longest bar |
-| Multitool Survivial Knife | 8,781.57 | 2nd |
+| Multitool Survival Knife | 8,781.57 | 2nd |
 | Nylon Rope | 6,754.80 | 3rd |
 | Duct Tape | 503.70 | Last — shortest bar |
 
@@ -82,20 +82,20 @@ Revenue values are formatted in **dark green font**, making the most important c
 | **Icons** | Adds icon sets (arrows, shapes, flags) based on rules |
 
 4. Click **fx** next to each option to configure:
-   - **Gradient** — smooth color scale from min to max
-   - **Rules** — custom buckets (e.g. if value > 40 → red background)
-   - **Field value** — color driven by a separate column
+   - **Gradient** — smooth color scale from min to max  
+   - **Rules** — custom buckets (e.g. if value > 40 → red background)  
+   - **Field value** — color driven by a separate column  
 
 ---
 
 ## Key Takeaways
 
-- [ ] Conditional formatting is applied per-column inside a Table or Matrix
-- [ ] Data bars give instant visual comparison without needing a separate chart
-- [ ] Icons add a traffic-light style signal to any numeric column
-- [ ] Background color rules work best for categorizing into tiers (low / mid / high)
-- [ ] Font color draws attention to the most important metric column
-- [ ] Always sort the table by the key metric for maximum readability
+- [ ] Conditional formatting is applied per-column inside a Table or Matrix  
+- [ ] Data bars give instant visual comparison without needing a separate chart  
+- [ ] Icons add a traffic-light style signal to any numeric column  
+- [ ] Background color rules work best for categorizing into tiers (low / mid / high)  
+- [ ] Font color draws attention to the most important metric column  
+- [ ] Always sort the table by the key metric for maximum readability  
 
 ---
 
@@ -104,4 +104,4 @@ Revenue values are formatted in **dark green font**, making the most important c
 | File | Description |
 |------|-------------|
 | `conditional_formatting.pbix` | Power BI file with both formatted tables |
-| `01_conditional_formatting/screenshots/conditional_formatting.png` | Screenshot of both tables |
+| `01_conditional_formating/screenshots/conditional_formatting.png` | Screenshot of both tables |
