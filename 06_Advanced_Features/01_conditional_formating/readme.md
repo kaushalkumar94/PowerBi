@@ -12,8 +12,8 @@ Applied to **Table** and **Matrix** visuals.
 
 Two tables using the **Apocalypse Store** dataset, both showing `Product Name`, `Price`, `Sum of Units Sold`, and `Sum of Revenue`.
 
-![Conditional Formatting Tables](./06_Advanced_Features/01_conditional_formating/screenshots/conditional_formatting.png)
----
+![Conditional Formatting Tables](./01_conditional_formating/screenshots/conditional_formatting.png)---
+
 
 ## Table 1 — Background Color + Icons + Data Bars
 
